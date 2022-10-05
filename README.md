@@ -10,3 +10,4 @@ husqvarna-automower<br />
 smartgarden<br />
 icons-mfd-png<br />
 icons-mfd-svg<br />
+<img src=“Link/Pfad hier einfügen“>
