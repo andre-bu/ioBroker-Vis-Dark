@@ -10,5 +10,6 @@ husqvarna-automower<br />
 smartgarden<br />
 icons-mfd-png<br />
 icons-mfd-svg<br />
+plenticore<br />
 <br />
 <img src=PV_View.jpg>
