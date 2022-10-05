@@ -1,10 +1,12 @@
 # ioBroker-Vis-Dark
-Benötigte Adapter für die VIS
-
-Basic Widgets
-
-vis-inventwo
-
-vis-icontwo
-
-hqwidgets
+<b>Benötigte Adapter für die VIS</b><br />
+Basic Widgets<br />
+vis-inventwo<br />
+vis-icontwo<br />
+hqwidgets<br />
+daswetter<br />
+weatherunderground<br />
+husqvarna-automower<br />
+smartgarden<br />
+icons-mfd-png<br />
+icons-mfd-svg<br />
